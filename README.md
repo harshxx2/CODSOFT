@@ -9,9 +9,9 @@ This is a simple calculator with basic arithmetic operations.The project aims to
 
 # Project 3: ROCK-PAPER-SCISSORS GAME
 This is a user-friendly interface with clear instructions and feedback and letting the user play rock-paper-scissors!
-The project achieves the following results:
-Prompting the user to choose rock, paper, or scissors.
-Generating a random choice (rock, paper, or scissors) for the computer.
-Determining the winner based on the user's choice and thecomputer's choice.
-Displaying the result, whether the user wins, loses, or it's a tie.
-Keeping track of the user's and computer's scores for multiple rounds.
+The project aims to
+Prompt the user to choose rock, paper, or scissors.
+Generate a random choice (rock, paper, or scissors) for the computer.
+Determine the winner based on the user's choice and thecomputer's choice.
+Display the result, whether the user wins, loses, or it's a tie.
+Keep track of the user's and computer's scores for multiple rounds.
